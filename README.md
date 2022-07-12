@@ -1,5 +1,6 @@
 A simple flutter app to calculate Body mass Index.
 
 🔗 Video Walkthrough
-https://user-images.githubusercontent.com/93065948/178419606-0005a19f-076c-4a64-a31f-474139772ff8.mp4
 
+
+![giphy](https://user-images.githubusercontent.com/93065948/178421349-30022468-cb1a-46b0-bd91-77ba71b345cc.gif)
